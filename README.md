@@ -1,25 +1,25 @@
-<!-- 🎃 Halloween Dark Mode – Profile README by Zen -->
+<!-- 🎃 Trembling Happy Halloween for Zen -->
 
-<div align="center">
-
-  <!-- Banner -->
+<p align="center">
   <img src="assets/JackOLantern.jpg" alt="Halloween Banner" width="100%" />
+</p>
 
-  <!-- Animated orange text -->
-  <br/>
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=FFA500&center=true&vCenter=true&width=900&lines=%E2%AD%90+Stars+on+my+repos+or+treats+%F0%9F%8D%AC"
-    alt="⭐ Stars on my repos or treats 🍬"
+<h2 align="center" style="color: orange;">
+  ⭐ Stars on my repos or treats 🍬
+</h2>
+
+<p align="center">
+  <img 
+    src="https://svg-banners.vercel.app/api?type=glitch&text1=🕷️%20Happy%20Halloween%20🎃&width=900&height=120" 
+    alt="Trembling Happy Halloween"
   />
+</p>
 
-  <h1>🕷️ Happy Halloween 🎃</h1>
-
-  <!-- Dark badges -->
+<p align="center">
   <a href="https://github.com/mcieric">
-    <img src="https://img.shields.io/badge/GitHub-@mcieric-111111?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-@mcieric-000000?style=for-the-badge&logo=github&logoColor=00BFFF" />
   </a>
   <a href="https://twitter.com/Z3n3ric">
-    <img src="https://img.shields.io/badge/Twitter-@zeneric__-111111?style=for-the-badge&logo=x" />
+    <img src="https://img.shields.io/badge/Twitter-@Z3n3ric-000000?style=for-the-badge&logo=x&logoColor=00BFFF" />
   </a>
-
-</div>
+</p>
