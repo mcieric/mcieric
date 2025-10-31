@@ -18,7 +18,7 @@
   <a href="https://github.com/mcieric">
     <img src="https://img.shields.io/badge/GitHub-@mcieric-111111?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://twitter.com/zeneric_">
+  <a href="https://twitter.com/Z3n3ric">
     <img src="https://img.shields.io/badge/Twitter-@zeneric__-111111?style=for-the-badge&logo=x" />
   </a>
 
