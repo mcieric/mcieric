@@ -1,31 +1,25 @@
-<!-- 🎃 Clean Halloween Neon Edition by Zen -->
+<!-- 🎃 Halloween Dark Mode – Profile README by Zen -->
 
-<div align="center" style="background-color:#000; padding:20px; border-radius:20px;">
+<div align="center">
 
   <!-- Banner -->
   <img src="assets/JackOLantern.jpg" alt="Halloween Banner" width="100%" />
 
-  <!-- Orange static text -->
-  <br/>
-  <h2 style="color:#FFA500; font-family:monospace;">
-    ⭐ Stars on my repos or treats 🍬
-  </h2>
-
-  <!-- Neon flicker animated text -->
+  <!-- Animated orange text -->
   <br/>
   <img
-    src="https://svg-banners.vercel.app/api?type=glitch&text1=💀%20Happy%20Halloween%20from%20Zen%20🎃&width=900&height=120"
-    alt="Happy Halloween from Zen"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=FFA500&center=true&vCenter=true&width=900&lines=%E2%AD%90+Stars+on+my+repos+or+treats+%F0%9F%8D%AC"
+    alt="⭐ Stars on my repos or treats 🍬"
   />
 
-  <br/><br/>
+  <h1>🕷️ Happy Halloween from Zen 🎃</h1>
 
-  <!-- Neon badges -->
+  <!-- Dark badges -->
   <a href="https://github.com/mcieric">
-    <img src="https://img.shields.io/badge/GitHub-@mcieric-000000?style=for-the-badge&logo=github&logoColor=00BFFF" />
+    <img src="https://img.shields.io/badge/GitHub-@mcieric-111111?style=for-the-badge&logo=github" />
   </a>
   <a href="https://twitter.com/Z3n3ric">
-    <img src="https://img.shields.io/badge/Twitter-@Z3n3ric-000000?style=for-the-badge&logo=x&logoColor=00BFFF" />
+    <img src="https://img.shields.io/badge/Twitter-@zeneric__-111111?style=for-the-badge&logo=x" />
   </a>
 
 </div>
