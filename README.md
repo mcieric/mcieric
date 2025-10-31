@@ -14,8 +14,8 @@
   <!-- Neon flicker animated text -->
   <br/>
   <img
-    src="https://svg-banners.vercel.app/api?type=glitch&text1=💀%20Happy%20Halloween%20from%20Zen%20🎃&width=900&height=120"
-    alt="Happy Halloween from Zen"
+    src="https://svg-banners.vercel.app/api?type=glitch&text1=💀%20Happy%20Halloween%20from%20Zen%20&width=900&height=120"
+    alt="Happy Halloween"
   />
 
   <br/><br/>
