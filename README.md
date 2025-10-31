@@ -1,4 +1,4 @@
-<!-- 🌕 Halloween Dark Mode – Profile README by BlueMoon0x69 -->
+<!-- 🎃 Halloween Dark Mode – Profile README by Zen -->
 
 <div align="center">
 
@@ -12,14 +12,14 @@
     alt="⭐ Stars on my repos or treats 🍬"
   />
 
-  <h1>🕷️ Happy Halloween 🎃</h1>
+  <h1>🕷️ Happy Halloween from Zen 🎃</h1>
 
   <!-- Dark badges -->
-  <a href="https://github.com/BlueMoon0x69">
-    <img src="https://img.shields.io/badge/GitHub-@BlueMoon0x69-111111?style=for-the-badge&logo=github" />
+  <a href="https://github.com/mcieric">
+    <img src="https://img.shields.io/badge/GitHub-@mcieric-111111?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://twitter.com/BlueMoon0x69">
-    <img src="https://img.shields.io/badge/Twitter-@BlueMoon0x69-111111?style=for-the-badge&logo=x" />
+  <a href="https://twitter.com/zeneric_">
+    <img src="https://img.shields.io/badge/Twitter-@zeneric__-111111?style=for-the-badge&logo=x" />
   </a>
 
 </div>
