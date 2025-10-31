@@ -1,24 +1,28 @@
-<!-- 💀 Halloween Neon Flicker – Profile README by Zen / mcieric -->
+<!-- 🎃 Halloween Neon Mix – Profile README by Zen / mcieric -->
 
 <div align="center" style="background-color:#000; padding:20px; border-radius:20px;">
 
   <!-- Banner -->
   <img src="assets/JackOLantern.jpg" alt="Halloween Banner" width="100%" />
 
-  <!-- Neon flicker animated text (via SVG) -->
+  <!-- Orange static text -->
+  <br/>
+  <h2 style="color:#FFA500; font-family:monospace;">
+    ⭐ Stars on my repos or treats 🍬
+  </h2>
+
+  <!-- Neon flicker animated heading -->
   <br/>
   <img
-    src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=36&duration=1800&pause=500&color=00BFFF&center=true&vCenter=true&width=900&lines=%E2%9C%A8+Stars+on+my+repos+or+treats+%F0%9F%8D%AC"
-    alt="⭐ Stars on my repos or treats 🍬"
+    src="https://svg-banners.vercel.app/api?type=glitch&text1=🕷️%20Happy%20Halloween%20from%20Zen%20🎃&width=900&height=120"
+    alt="Happy Halloween from Zen"
   />
 
-  <!-- Neon glowing title -->
-  <h1 style="color:#00BFFF; text-shadow:0 0 10px #00BFFF, 0 0 30px #00BFFF;">
-    ⚡ Happy Halloween from Zen 🎃
-  </h1>
-
-  <!-- Animated neon flicker SVG (subtle pulse effect) -->
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=%20🩵%20mcieric%20🕸️%20&width=800&height=100" alt="mcieric Neon Flicker" />
+  <!-- Neon flicker for mcieric -->
+  <img
+    src="https://svg-banners.vercel.app/api?type=glitch&text1=💀%20mcieric%20💀&width=800&height=100"
+    alt="mcieric Neon Flicker"
+  />
 
   <br/>
 
@@ -31,3 +35,4 @@
   </a>
 
 </div>
+
