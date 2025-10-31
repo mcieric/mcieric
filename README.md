@@ -1,4 +1,4 @@
-<!-- 🎃 Halloween Neon Mix – Profile README by Zen / mcieric -->
+<!-- 🎃 Clean Halloween Neon Edition by Zen -->
 
 <div align="center" style="background-color:#000; padding:20px; border-radius:20px;">
 
@@ -11,20 +11,14 @@
     ⭐ Stars on my repos or treats 🍬
   </h2>
 
-  <!-- Neon flicker animated heading -->
+  <!-- Neon flicker animated text -->
   <br/>
   <img
-    src="https://svg-banners.vercel.app/api?type=glitch&text1=🕷️%20Happy%20Halloween%20from%20Zen%20🎃&width=900&height=120"
+    src="https://svg-banners.vercel.app/api?type=glitch&text1=💀%20Happy%20Halloween%20from%20Zen%20🎃&width=900&height=120"
     alt="Happy Halloween from Zen"
   />
 
-  <!-- Neon flicker for mcieric -->
-  <img
-    src="https://svg-banners.vercel.app/api?type=glitch&text1=💀%20mcieric%20💀&width=800&height=100"
-    alt="mcieric Neon Flicker"
-  />
-
-  <br/>
+  <br/><br/>
 
   <!-- Neon badges -->
   <a href="https://github.com/mcieric">
@@ -35,4 +29,3 @@
   </a>
 
 </div>
-
