@@ -1,31 +1,36 @@
-<!-- 🎃 Clean Halloween Neon Edition by Zen -->
+<!-- 🎃 Halloween Special README by Zen / Zeneric -->
 
-<div align="center" style="background-color:#000; padding:20px; border-radius:20px;">
-
-  <!-- Banner -->
+<p align="center">
   <img src="assets/JackOLantern.jpg" alt="Halloween Banner" width="100%" />
+</p>
 
-  <!-- Orange static text -->
-  <br/>
-  <h2 style="color:#FFA500; font-family:monospace;">
-    ⭐ Stars on my repos or treats 🍬
-  </h2>
+<h1 align="center">🕷️ Happy Halloween from Zen 🎃</h1>
 
-  <!-- Neon flicker animated text -->
-  <br/>
-  <img
-    src="https://svg-banners.vercel.app/api?type=glitch&text1=💀%20Happy%20Halloween%20from%20Zen%20&width=900&height=120"
-    alt="Happy Halloween"
-  />
+<p align="center">
+  <b>⭐ Stars on my repos or treats 🍬</b>
+</p>
 
-  <br/><br/>
+---
 
-  <!-- Neon badges -->
-  <a href="https://github.com/mcieric">
-    <img src="https://img.shields.io/badge/GitHub-@mcieric-000000?style=for-the-badge&logo=github&logoColor=00BFFF" />
+### 🧙 About Me
+- ⚡ Web3 Builder • Coder • Automation Enthusiast  
+- 🧩 Building dashboards, bots & crypto tools  
+- 💛 CELO • Bittensor • Hybra • Talent Protocol  
+
+---
+
+### 🧡 Connect with Me
+<p align="center">
+  <a href="https://github.com/mcieric" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Zeneric-orange?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://twitter.com/Z3n3ric">
-    <img src="https://img.shields.io/badge/Twitter-@Z3n3ric-000000?style=for-the-badge&logo=x&logoColor=00BFFF" />
+  <a href="https://twitter.com/zeneric_" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@zeneric__-orange?style=for-the-badge&logo=x" />
   </a>
+</p>
 
-</div>
+---
+
+<p align="center">
+  👻 <i>“Open-source magic never dies…”</i> 🧛‍♂️
+</p>
